@@ -1,0 +1,5 @@
+float32 commanded_voltage
+float32 commanded_current
+float32 actual_voltage
+float32 actual_current
+bool output_enabled
